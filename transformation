@@ -1,4 +1,0 @@
-
-git rm -r transformation/
-git commit -m "Delete transformation directory"
-git push origin main
