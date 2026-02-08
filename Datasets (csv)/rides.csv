@@ -1,0 +1,51 @@
+ride_id,location_id,ride_name,ride_type,capacity,min_height_cm,thrill_level
+1,4,Roller Coaster A,Kids,12,0,1
+2,17,Roller Coaster B,Water,26,0,4
+3,17,Mega Drop Tower,Family,46,90,3
+4,14,Sky Screamer,Kids,26,0,1
+5,14,Ferris Wheel,Thrill,20,120,4
+6,17,Carousel Classic,Family,60,0,3
+7,8,Bumper Cars,Kids,16,0,1
+8,2,Tea Cups,Family,37,110,2
+9,13,Pirate Ship,Kids,27,0,1
+10,16,Spinning Swings,Kids,29,0,1
+11,16,Log Flume,Family,40,110,2
+12,6,River Rapids,Thrill,35,120,5
+13,4,Water Slide Alpha,Water,33,100,3
+14,3,Water Slide Beta,Kids,10,0,1
+15,6,Wave Pool,Water,47,110,3
+16,4,Lazy River,Thrill,28,120,4
+17,18,Dragon Coaster,Water,23,100,3
+18,6,Wild Mouse,Water,24,100,3
+19,5,Pendulum Ride,Family,54,0,2
+20,9,Free Fall,Family,39,110,2
+21,11,Kiddie Coaster,Thrill,21,140,5
+22,6,Mini Train,Family,35,0,2
+23,16,Balloon Ride,Kids,19,0,1
+24,19,Frog Hopper,Thrill,32,120,5
+25,11,Merry Go Round,Family,34,110,3
+26,15,Airplane Ride,Family,38,110,2
+27,9,Boat Ride,Thrill,21,120,4
+28,19,Safari Jeep,Kids,29,0,1
+29,19,Haunted House,Thrill,38,120,5
+30,9,Fun House,Family,46,110,2
+31,4,Mirror Maze,Family,38,0,3
+32,10,Dark Ride,Thrill,34,140,5
+33,9,Spinning Barrels,Kids,12,0,1
+34,19,Tilt-A-Whirl,Kids,25,0,1
+35,15,Scrambler,Water,20,120,4
+36,19,Octopus,Kids,17,0,1
+37,2,Super Loop,Thrill,20,130,4
+38,10,Slingshot,Kids,17,0,1
+39,19,Giant Swing,Kids,27,0,1
+40,17,Sky Coaster,Water,40,100,3
+41,20,Splash Mountain,Kids,28,0,1
+42,2,Thunder Canyon,Water,33,120,2
+43,19,Tornado Slide,Water,47,100,2
+44,17,Speed Slide,Kids,21,0,1
+45,18,Family Raft Ride,Family,47,90,2
+46,17,Tube Slide,Thrill,37,130,5
+47,2,Kiddie Pool,Thrill,21,120,5
+48,19,Splash Pad,Kids,29,0,1
+49,1,Virtual Reality Ride,Thrill,29,140,4
+50,11,Simulator 4D,Thrill,20,120,5
